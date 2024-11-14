@@ -3,7 +3,7 @@
 
 #include <UltrasonicHCSR04.h>
 
-// definition of the dc motor controller l298n
+// definition of the h-bridge
 const int IN1 = 1;
 const int IN2 = 2;
 const int ENA = 5;
